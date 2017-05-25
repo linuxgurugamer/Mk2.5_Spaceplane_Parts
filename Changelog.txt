@@ -1,0 +1,8 @@
+Fixed typoes where bulkheadProfiles was misspelled
+Set all sizes to mk2 instead of size25
+Updated fuel amounts and masses of fuel tanks
+
+Added license per @RaginCaucasian's update on the forums
+
+Added patch for FE to change from size25 to mk25
+Recomputed all the volumes, fuel amounts and masses of the parts
