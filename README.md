@@ -1,6 +1,13 @@
 # Mk2.5_Spaceplane_Parts
 This is a parts pack of 2.5m spaceplane parts with a flat bottom, possessing a bit of aerodynamic lift.
 
+The current masses of the tanks is set to a mostly-stock standard ratio of 
+1/8 the mass of the fuel.
+
+There is an optional patch in the Extras directory, which uses a more precise
+calculation based on the tank size.  The numbers in the patch are slightly
+higher, but more realistic.
+
 Parts:
 
 Cockpit

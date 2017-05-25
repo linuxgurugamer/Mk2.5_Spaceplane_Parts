@@ -46,6 +46,8 @@ echo Version:  %VERSION%
 
 copy ..\MiniAVC.dll Gamedata\RaginCaucasian
 copy Changelog.txt GameData\RaginCaucasian
+copy LIcense.txt GameData\RaginCaucasian
+copy README.md GameData\RaginCaucasian
 
 
 set FILE="%RELEASEDIR%\Mk2.5-Spaceplane-%VERSION%.zip"
