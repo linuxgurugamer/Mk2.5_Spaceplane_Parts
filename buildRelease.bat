@@ -50,5 +50,5 @@ copy Changelog.txt GameData\RaginCaucasian
 
 set FILE="%RELEASEDIR%\Mk2.5-Spaceplane-%VERSION%.zip"
 IF EXIST %FILE% del /F %FILE%
-%ZIP% a -tzip %FILE% GameData 
+%ZIP% a -tzip %FILE% GameData Extras
 

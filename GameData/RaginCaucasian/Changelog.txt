@@ -5,3 +5,4 @@ Updated fuel amounts and masses of fuel tanks
 Added license per @RaginCaucasian's update on the forums
 
 Added patch for FE to change from size25 to mk25
+Recomputed all the volumes, fuel amounts and masses of the parts
