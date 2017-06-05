@@ -1,0 +1,6 @@
+This part was contributed by Art Whaley:
+
+The texture inherits CCANSA 4.0 International from the original mod.  
+
+My contributions - the model and the .cfg file are public domain 
+

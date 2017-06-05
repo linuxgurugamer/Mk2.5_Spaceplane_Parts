@@ -29,3 +29,17 @@ Mini-S Elevon 2
 Mini-S Spaceplane Tail Fin
 Mini-S Wing Strake
 
+Thanks to Art Whaley for the following parts:
+
+	mk2.5 to 1.25m
+	mk2.5 to mk3
+	mk2.5 decoupler
+	mk2.5 engine mounting plate
+	cargo bay docking trunk
+
+Thanks to @SuicidalInsanity for the following parts:
+
+	Engine Mount
+	mk2 to mk2 adapter
+	mk2 to mk3 adapter
+	mk2.5 Cargo bay with cargo ramp
