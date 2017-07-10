@@ -1,3 +1,7 @@
+1.4.2
+		Moved TunedPartMasses patch to PatchManager folder
+		Added PatchManager as suggested mod
+
 1.4.1
 	Adoption by Linuxgurugamer
 		Fixed typos where bulkheadProfiles was mispelled
