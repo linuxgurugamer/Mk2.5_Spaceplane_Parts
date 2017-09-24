@@ -1,3 +1,14 @@
+
+1.4.3
+	Github user @wile1411 submitted patches to fix descriptoin
+		and tech levels of some parts
+		mk25thrustplate.cfg
+		mk25to125.cfg
+		mk25decoupler.cfg
+		mk25tomk3.cfg
+		CCK Filter addition
+
+
 1.4.2
 		Moved TunedPartMasses patch to PatchManager folder
 		Added PatchManager as suggested mod
