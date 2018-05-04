@@ -1,20 +1,30 @@
 {
-  "NAME": "Mk2.5 Spaceplane Parts",
-  "URL": "https://raw.githubusercontent.com/linuxgurugamer/Mk2.5_Spaceplane_Parts/master/GameData/RaginCaucasian/Mk2.5Spaceplane.version",
-  "VERSION": {
-    "MAJOR": 1,
-    "MINOR": 4,
-    "PATCH": 3,
-    "BUILD": 3
-  },
-  "KSP_VERSION_MIN": {
-    "MAJOR": 1,
-    "MINOR": 3,
-    "PATCH": 0
-  },
-  "KSP_VERSION_MAX": {
-    "MAJOR": 1,
-    "MINOR": 4,
-    "PATCH": 99
-  }
+    "NAME": "Mk2.5 Spaceplane Parts",
+    "URL": "https://raw.githubusercontent.com/linuxgurugamer/Mk2.5_Spaceplane_Parts/master/GameData/RaginCaucasian/Mk2.5Spaceplane.version",
+    "DOWNLOAD": "https://github.com/linuxgurugamer/Mk2.5_Spaceplane_Parts/releases",
+    "GITHUB": {
+        "USERNAME": "linuxgurugamer",
+        "REPOSITORY": "Mk2.5_Spaceplane_Parts"
+    },
+    "VERSION": {
+        "MAJOR": 1,
+        "MINOR": 4,
+        "PATCH": 3,
+        "BUILD": 4
+    },
+    "KSP_VERSION": {
+        "MAJOR": 1,
+        "MINOR": 4,
+        "PATCH": 1
+    },
+    "KSP_VERSION_MIN": {
+        "MAJOR": 1,
+        "MINOR": 4,
+        "PATCH": 1
+    },
+    "KSP_VERSION_MAX": {
+        "MAJOR": 1,
+        "MINOR": 4,
+        "PATCH": 99
+    }
 }

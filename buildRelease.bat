@@ -5,6 +5,8 @@ set DEFHOMEDRIVE=d:
 set DEFHOMEDIR=%DEFHOMEDRIVE%%HOMEPATH%
 set HOMEDIR=
 set HOMEDRIVE=%CD:~0,2%
+set VERSIONFILE=Mk2.5Spaceplane.version
+copy %VERSIONFILE% GameData\RaginCaucasian
 
 set RELEASEDIR=d:\Users\jbb\release
 set ZIP="c:\Program Files\7-zip\7z.exe"
