@@ -1,4 +1,5 @@
 #
+
 # This file contains several types of information:
 #
 # 0     KSP version, if not the current
