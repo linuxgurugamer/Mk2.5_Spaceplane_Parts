@@ -1,3 +1,6 @@
+1.4.3.5
+	Fixed attachment nodes on the Mk25to375 part
+
 1.4.3.4
 	Updated version file
 
