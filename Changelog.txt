@@ -1,3 +1,6 @@
+1.4.3.6
+	Added an IVA for the cockpit, taken from SXT
+
 1.4.3.5
 	Fixed attachment nodes on the Mk25to375 part
 

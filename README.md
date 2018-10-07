@@ -44,3 +44,5 @@ Thanks to @SuicidalInsanity for the following parts:
 	mk2 to mk2 adapter
 	mk2 to mk3 adapter
 	mk2.5 Cargo bay with cargo ramp
+
+The IVA for the cockpit has been taken from the SXT mod

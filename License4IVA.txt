@@ -1,0 +1,4 @@
+The IVA for the cockpit was taken from the SXT mod, and has a different
+license:
+
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
