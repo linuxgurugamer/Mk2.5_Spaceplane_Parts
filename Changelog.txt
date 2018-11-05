@@ -1,3 +1,10 @@
+1.4.3.8
+	Thanks to @taniwha for this fix:
+		Recreate the mk25Cockpit's hatch+ladder colliders.  
+		The colliders now use capsule colliders instead of mesh colliders (much
+		more efficient), are oriented sensibly, and pulled out such that a kerbal
+		on a ladder does not slide (might be a smidge far out, though).
+
 1.4.3.7
 	Version bump for 1.5
 	
