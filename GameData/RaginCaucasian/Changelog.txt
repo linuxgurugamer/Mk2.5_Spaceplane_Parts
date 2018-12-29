@@ -1,3 +1,7 @@
+1.4.4
+	Added 2x and 3x delta wings
+	Adjusted tech level of the engine plates
+
 1.4.3.8
 	Thanks to @taniwha for this fix:
 		Recreate the mk25Cockpit's hatch+ladder colliders.  
