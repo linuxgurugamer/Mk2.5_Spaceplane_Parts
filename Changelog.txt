@@ -1,3 +1,8 @@
+1.4.4.1
+	Fixed lifting values for new wings
+	Fixed lifting value for original wing
+	Added two more wings, these are 2x and 3x of the stock size
+
 1.4.4
 	Added 2x and 3x delta wings
 	Adjusted tech level of the engine plates
