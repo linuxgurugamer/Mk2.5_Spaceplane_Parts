@@ -1,3 +1,6 @@
+1.4.5
+	Added missing bulkheadProfiles
+	
 1.4.4.2
 	Fixed wing masses
 
