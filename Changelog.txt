@@ -1,3 +1,7 @@
+1.4.5.2
+    Added whitelist for new ReStock mod
+    Fixed node placement in 2.5 thrust plates
+    
 1.4.5.1
 	More missing bulkheadProfiles added
 	
