@@ -1,3 +1,27 @@
+1.5.1
+	Converted all TGA and PNG files to DDS. Note that there are a few png
+	files which have a zero length, those are needed due to a quirk in the way
+	the texture is read
+
+1.5.0
+	Added Beluga parts, thanks to @suicidalInsanity
+	Credit to @suicidalInsanity for all the following parts contributed in the
+	past:
+		Mk2.5-mk3 adapter
+		Mk2.5-mk2 adapter
+		Tail ramp
+		Mk2.5 Engine Plate
+	Updated the Engine Mount and the Mk2.5 Engine Plate to use B9PartSwitch to
+	switch between 1, 2, and 3 mount points for the engine.  Now requres
+	B9PartSwitch as a dependency
+
+1.4.5.2
+    Added whitelist for new ReStock mod
+    Fixed node placement in 2.5 thrust plates
+    
+1.4.5.1
+	More missing bulkheadProfiles added
+	
 1.4.5
 	Added missing bulkheadProfiles
 	
@@ -37,7 +61,7 @@
 	Updated version info for 1.4.1
 
 1.4.3
-	Github user @wile1411 submitted patches to fix descriptoin
+	Github user @wile1411 submitted patches to fix description
 		and tech levels of some parts
 		mk25thrustplate.cfg
 		mk25to125.cfg
