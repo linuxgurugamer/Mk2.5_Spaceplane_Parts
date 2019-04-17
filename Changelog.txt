@@ -12,7 +12,7 @@
 		Tail ramp
 		Mk2.5 Engine Plate
 	Updated the Engine Mount and the Mk2.5 Engine Plate to use B9PartSwitch to
-	switch between 1, 2, and 3 mount points for the engine.  Now requres
+	switch between 1, 2, and 3 mount points for the engine.  Now requires
 	B9PartSwitch as a dependency
 
 1.4.5.2
@@ -85,3 +85,4 @@
 		Recomputed all the volumes, fuel amounts and masses of the parts
 
 		Added best vessels submitted in the weekly challenge
+
