@@ -85,4 +85,3 @@
 		Recomputed all the volumes, fuel amounts and masses of the parts
 
 		Added best vessels submitted in the weekly challenge
-
