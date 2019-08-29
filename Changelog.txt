@@ -1,3 +1,13 @@
+1.5.1.1
+	Thanks to @Rocket Witch for most of this:
+		Impact tolerance fixed on several parts
+		mk2Fuselage0500_LFO didn't have a full LF tank
+		mk25to125 had a vertically offset attachnode.
+	Based on @rocketWitch's suggestions, I've made the following:
+		breakingForce and breakingTorque set to 200 on all parts
+	Fixed as a result of looking at @Rocket Witch's patch:
+		mk25to375interstage had the bottom nodes reversed, causing
+			a slight vertical misalignment
 1.5.1
 	Converted all TGA and PNG files to DDS. Note that there are a few png
 	files which have a zero length, those are needed due to a quirk in the way
