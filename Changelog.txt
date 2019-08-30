@@ -1,3 +1,6 @@
+1.5.1.2
+	Thanks to @Rocket_Witch:
+		Fixed mk2tomk3 adapter, was offset
 1.5.1.1
 	Thanks to @Rocket Witch for most of this:
 		Impact tolerance fixed on several parts
