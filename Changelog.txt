@@ -1,3 +1,7 @@
+1.5.1.3
+	Added missing Tweakscale configs for all except the wings and elvons
+	Updated CLS patch with a NEEDS to avoid unnecessary warnings from MM
+
 1.5.1.2
 	Thanks to @Rocket_Witch:
 		Fixed mk2tomk3 adapter, was offset
