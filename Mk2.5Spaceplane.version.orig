@@ -1,0 +1,27 @@
+{
+  "NAME": "Mk2.5 Spaceplane Parts",
+  "URL": "http://ksp.spacetux.net/avc/Mk2.5Spaceplane",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/Mk2.5_Spaceplane_Parts/releases",
+  "GITHUB": {
+    "USERNAME": "linuxgurugamer",
+    "REPOSITORY": "Mk2.5_Spaceplane_Parts"
+  },
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 5,
+    "PATCH": 1,
+    "BUILD": 3
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 4,
+    "PATCH": 1
+  },
+  "INSTALL_LOC_1":
+  {
+    "NAME":    "Mk2",
+    "PATH":         "",
+    "DIRECTORY":    "RaginCaucasian",
+    "FILE":         "Mk2.5Spaceplane.version"
+  }
+}
