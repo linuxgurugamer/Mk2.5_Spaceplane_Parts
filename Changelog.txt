@@ -1,5 +1,12 @@
 ChangeLog
 
+1.5.3
+	Added following parts:
+		Beluga Nose 
+		Beluga Separate doors
+		Beluga TriAnim
+	Replaced all zero length PNG files with a 1x1 png
+
 1.5.2
 	Updated for KSP 1.8
 
