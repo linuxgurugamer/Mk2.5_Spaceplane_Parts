@@ -8,6 +8,9 @@ Squad/Parts/Command/cupola/ksp_l_cupola_diff.mu
 Squad/Parts/Command/cupola/ksp_l_cupola_normal.dds
 Squad/Parts/Command/cupola/ksp_l_cupola_normal.mu
 Squad/Parts/Engine/liquidEngineSSME/SSME.mu
+Squad/Parts/Engine/liquidEngineSSME/SSME.dds
+Squad/Parts/Engine/liquidEngineSSME/SSME_GLOW.dds
+Squad/Parts/Engine/liquidEngineSSME/SSME_NRM.dds
 Squad/Parts/FuelTank/adapterTanks/Mk3Adapters.dds
 Squad/Parts/FuelTank/mk2FuselageShort/mk2FuselageShort.dds
 Squad/Parts/Wheel/LandingGear/GearMedium.mu

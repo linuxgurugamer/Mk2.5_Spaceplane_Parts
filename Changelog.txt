@@ -1,5 +1,9 @@
 ChangeLog
 
+1.5.3.1
+	Thanks to forum user @Araym:
+		Added missing textures to the restock whitelist
+
 1.5.3
 	Added following parts:
 		Beluga Nose 
