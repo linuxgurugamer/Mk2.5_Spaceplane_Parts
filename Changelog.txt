@@ -1,5 +1,10 @@
 ChangeLog
 
+1.5.3.2
+	Fixed names of the Cargo Nose parts
+	Deprecated the old mk25BeulgaNoseBuildV part
+	Updated version file to use github for new version info
+	
 1.5.3.1
 	Thanks to forum user @Araym:
 		Added missing textures to the restock whitelist
