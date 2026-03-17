@@ -1,5 +1,8 @@
 ChangeLog
 
+1.5.3.3
+	Added missing internal attachment nodes for the normal-sized cargo bay
+	
 1.5.3.2
 	Fixed names of the Cargo Nose parts
 	Deprecated the old mk25BeulgaNoseBuildV part
