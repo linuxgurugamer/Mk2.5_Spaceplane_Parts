@@ -1,5 +1,8 @@
 ChangeLog
 
+1.5.3.4
+	Fixed typo in the cargo bay
+	
 1.5.3.3
 	Added missing internal attachment nodes for the normal-sized cargo bay
 	
